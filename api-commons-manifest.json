@@ -7,7 +7,8 @@
       "keywords": "APIs,API Evangelist,API,Building Blocks,Management",
       "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.en_US",
       "attribution": "API Evangelist",
-      "url": "http://apicommons.org/api-commons-manifest.jsonhttps://raw.githubusercontent.com/kinlane/building-blocks-api/master/api-commons-manifest.jsonions": [
+      "url": "http://apicommons.org/api-commons-manifest.jsonhttps://raw.githubusercontent.com/kinlane/building-blocks-api/master/api-commons-manifest.json",
+      "definitions": [
         {
           "type": "swagger",
           "url": "http://api.apievangelist.com/definitions/BuildingBlocks"
